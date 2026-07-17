@@ -136,7 +136,6 @@ Features:
 | Search Engine       | SQLite FTS5  |
 | Image Processing    | Pillow       |
 | Image Similarity    | ImageHash    |
-| Graph Visualization | NetworkX     |
 | Drag & Drop         | Qt Framework |
 
 ---
@@ -199,6 +198,10 @@ Run
 ```bash
 python main.py
 ```
+
+# Another Installation
+> Downlaod the setup file from realeses
+> Run and install
 
 ---
 
