@@ -201,6 +201,7 @@ python main.py
 
 # Another Installation
 > Downlaod the setup file from realeses
+
 > Run and install
 
 ---
