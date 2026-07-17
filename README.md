@@ -6,7 +6,7 @@
 
 *A modern desktop application for indexing, organizing and exploring your digital assets.*
 
-<img src="assets/logo.png" width="100%">
+<img src="Assets/logo.png" width="100%">
 
 <br>
 
@@ -102,7 +102,7 @@ Features:
 
 ## Main Window
 
-> <img src="assets/main_window.png" width="100%">
+> <img src="Assets/main_window.png" width="100%">
 
 ---
 
