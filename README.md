@@ -6,7 +6,7 @@
 
 *A modern desktop application for indexing, organizing and exploring your digital assets.*
 
-<img src="Assets/logo.png" width="100%">
+<img src="build_assets/icon.png">
 
 <br>
 
@@ -108,19 +108,19 @@ Features:
 
 ## Dependency Graph
 
-> *(Add screenshot or GIF here)*
+> <img src="Assets/graph.png" width="100%">
 
 ---
 
 ## Statistics Dashboard
 
-> *(Add screenshot here)*
+> <img src="Assets/stats.png" width="100%">
 
 ---
 
 ## Duplicate Detection
 
-> *(Add screenshot here)*
+> <img src="Assets/duplicate.png" width="100%">
 
 ---
 
