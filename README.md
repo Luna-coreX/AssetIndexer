@@ -5,9 +5,9 @@
 **Fast • Modern • Local Asset Management**
 
 *A modern desktop application for indexing, organizing and exploring your digital assets.*
-<p align="center">
-  <img src="build_assets/icon.png" width="180>
-</p>
+
+<img src="build_assets/icon.png" width="180">
+
 
 
 <br>
